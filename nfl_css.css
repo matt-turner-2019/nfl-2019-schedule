@@ -1,37 +1,56 @@
 body {
   background-color: cornsilk;
+  margin-left: 1.0em;
 }
 
 h1 {
   color: navy;
   font-family: 'Copse', serif;
-  margin-left: 5px;
+/*  margin-left: 5px; */
 }
 
 h3 {
   color: navy;
   font-family: 'Copse', serif;
   line-height: 1.0;
-  margin-left: 20px;
+  margin-left: 1.5em;
 /*  padding-top: 1em; */
+}
+
+h5 {
+  color: black;
+  font-family: 'Arimo', sans-serif;
+  font-size: 1.0em;
+/*  margin-left: 5px; */
 }
 
 p {
   color: black;
   font-family: 'Arimo', sans-serif;
   font-size: 1.1em;
-  margin-left: 40px;
-}
-
-.lastrow {
-  padding-bottom: 1em;
+  margin-left: 3.0em;
 }
 
 .byeweek {
   font-style: italic;
 }
 
+.lastrow {
+  padding-bottom: 1.0em;
+}
+
+.link {
+  border-bottom: 1px solid;
+  color: darkred;
+  padding-bottom: 1px;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: darkblue;
+}
+
 p.byeweek {
   font-style: italic;
-  padding-bottom: 1em;
+  padding-bottom: 1.0em;
 }
