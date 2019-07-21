@@ -1,0 +1,37 @@
+body {
+  background-color: cornsilk;
+}
+
+h1 {
+  color: navy;
+  font-family: 'Copse', serif;
+  margin-left: 5px;
+}
+
+h3 {
+  color: navy;
+  font-family: 'Copse', serif;
+  line-height: 1.0;
+  margin-left: 20px;
+/*  padding-top: 1em; */
+}
+
+p {
+  color: black;
+  font-family: 'Arimo', sans-serif;
+  font-size: 1.1em;
+  margin-left: 40px;
+}
+
+.lastrow {
+  padding-bottom: 1em;
+}
+
+.byeweek {
+  font-style: italic;
+}
+
+p.byeweek {
+  font-style: italic;
+  padding-bottom: 1em;
+}
