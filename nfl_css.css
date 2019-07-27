@@ -50,17 +50,17 @@ p {
   color: darkblue;
 }
 
-p.byeweek {
-  font-style: italic;
-  padding-bottom: 1.0em;
-}
-
 /* Predicted Loss */
-p.pl {
+.pl {
   text-decoration: line-through
 }
 
 /* Predicted Win */
-p.pw {
+.pw {
   font-weight: bold
+}
+
+p.byeweek {
+  font-style: italic;
+  padding-bottom: 1.0em;
 }
