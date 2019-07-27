@@ -52,12 +52,13 @@ p {
 
 /* Predicted Loss */
 .pl {
-  text-decoration: line-through
+  color: gray;
+  text-decoration: line-through;
 }
 
 /* Predicted Win */
 .pw {
-  font-weight: bold
+  font-weight: bold;
 }
 
 p.byeweek {
