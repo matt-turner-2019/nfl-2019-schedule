@@ -1,6 +1,6 @@
 body {
   background-color: cornsilk;
-  margin-left: 1.0em;
+  margin-left: 16px;
 }
 
 h1 {
@@ -63,8 +63,8 @@ p {
 
 .timestamp {
   color: lightgray;
-  font-size: 0.5em;
-  margin-left: 1.0em;
+  font-size: 0.8em;
+  margin-left: 0.0em;
 }
 
 p.byeweek {
