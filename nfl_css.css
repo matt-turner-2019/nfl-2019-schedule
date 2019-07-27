@@ -35,6 +35,18 @@ p {
   font-style: italic;
 }
 
+.fas {
+  margin-left: 0.7em;
+}
+
+.fa-check {
+  color: green
+}
+
+.fa-times {
+  color: red
+}
+
 .lastrow {
   padding-bottom: 1.0em;
 }
