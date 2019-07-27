@@ -63,7 +63,8 @@ p {
 
 .timestamp {
   color: lightgray;
-  font-weight: lighter;
+  font-size: 0.5em;
+  margin-left: 1.0em;
 }
 
 p.byeweek {
